@@ -1,0 +1,8 @@
+## Once you been to the GIT website, downloaded it and made yourself an account, you should watch a 15 min video to get a class on the basic commands
+#This is just one example !
+http://www.youtube.com/watch?v=LXoWxrTdXkM
+
+#It even offers a online version of the GIT prompt window: 
+http://try.github.io/levels/1/challenges/1
+
+#this tutorial is super easy to follow along with 
